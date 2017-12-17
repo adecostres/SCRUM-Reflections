@@ -1,0 +1,2 @@
+Wymagania funkcjonalne opisuj¹ funkcje wykonywane przez system,
+Wymagania niefunkcjonalne opisuj¹ ograniczenia przy których system powinien realizowaæ swe funkcje.
