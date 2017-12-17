@@ -1,0 +1,1 @@
+Przed napisaniem w³aœciwej funkcjonalnoœci programista zaczyna od utworzenia testu. Test ten powinien testowaæ funkcjonalnoœæ, któr¹ dopiero chcemy utworzyæ.
